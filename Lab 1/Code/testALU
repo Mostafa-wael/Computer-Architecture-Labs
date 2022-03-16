@@ -1,0 +1,131 @@
+# Run the file by typing "do testALU" in the transcript
+
+# compileall projects
+project compileall
+
+#this command open the simulation for the entity named "ALU"
+vsim -gui work.ALU
+#add the signals you want to test in the wave
+add wave -position insertpoint  \
+sim:/ALU/A \
+sim:/ALU/B \
+sim:/ALU/S \
+sim:/ALU/C_IN \
+sim:/ALU/C_OUT \
+sim:/ALU/F
+
+# set the radix to Hexadecimal
+radix signal sim:/ALU/A Hexadecimal
+radix signal sim:/ALU/B Hexadecimal
+radix signal sim:/ALU/S Binary
+radix signal sim:/ALU/C_IN Hexadecimal
+radix signal sim:/ALU/C_OUT Hexadecimal
+radix signal sim:/ALU/F Hexadecimal
+
+
+#=========== test cases for partB ===========#
+# testCase1 -> 000A
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/B 16#000A 0
+force -freeze sim:/ALU/S 2#0100 0
+#run simulation 
+run 
+
+#testCase2 -> F00F
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/B 16#000A 0
+force -freeze sim:/ALU/S 2#0101 0
+#run simulation 
+run 
+
+#testCase3 -> F005
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/B 16#000A 0
+force -freeze sim:/ALU/S 2#0110 0
+#run simulation 
+run 
+
+#testCase4 -> 0FF0
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/B 16#000A 0
+force -freeze sim:/ALU/S 2#0111 0
+#run simulation 
+run 
+
+#=========== test cases for partC ===========#
+
+#testCase1 -> 7807, 1
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/S 2#1000 0
+#run simulation 
+run 
+
+#testCase2 -> F807, 1
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/S 2#1001 0
+#run simulation 
+run 
+
+#testCase3 -> 7805, 0
+force -freeze sim:/ALU/A 16#F00A 0
+force -freeze sim:/ALU/S 2#1001 0
+#run simulation 
+run 
+
+#testCase4 -> 7807, 1
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/C_IN 2#0 0
+force -freeze sim:/ALU/S 2#1010 0
+#run simulation 
+run 
+
+#testCase5 -> F807, 1
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/C_IN 2#1 0
+force -freeze sim:/ALU/S 2#1010 0
+#run simulation 
+run 
+
+#testCase6 -> F807, 1
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/S 2#1011 0
+#run simulation 
+run 
+
+#=========== test cases for partD ===========#
+
+
+#testCase1 -> E01E, 1
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/S 2#1100 0
+#run simulation 
+run 
+
+#testCase2 -> E01F, 1
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/S 2#1101 0
+#run simulation 
+run 
+
+#testCase3 -> E01E, 1
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/C_IN 2#0 0
+force -freeze sim:/ALU/S 2#1110 0
+#run simulation 
+run 
+
+#testCase4 -> E01F, 1
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/C_IN 2#1 0
+force -freeze sim:/ALU/S 2#1110 0
+#run simulation 
+run 
+
+#testCase5 -> 0000, 0
+force -freeze sim:/ALU/A 16#F00F 0
+force -freeze sim:/ALU/S 2#1111 0
+#run simulation 
+run 
+
+
+

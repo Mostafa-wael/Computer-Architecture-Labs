@@ -1,0 +1,62 @@
+{E:/CMP3/Computer Archeticture/Labs/Lab 4/M/Ram.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP3/Computer Archeticture/Labs/Lab 4/M/Ram.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ram
+-- Compiling architecture syncrama of ram
+
+} {} {}} {E:/CMP3/Computer Archeticture/Labs/Lab 4/M/memAndReg.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP3/Computer Archeticture/Labs/Lab 4/M/memAndReg.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity memAndReg
+-- Compiling architecture memAndReg of memAndReg
+
+} {} {}} {E:/CMP3/Computer Archeticture/Labs/Lab 4/M/addressDecoder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP3/Computer Archeticture/Labs/Lab 4/M/addressDecoder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity addressDecoder
+-- Compiling architecture registerFile of addressDecoder
+
+} {} {}} {E:/CMP3/Computer Archeticture/Labs/Lab 4/M/memCount.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP3/Computer Archeticture/Labs/Lab 4/M/memCount.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity memCount
+-- Compiling architecture memCount of memCount
+
+} {} {}} {E:/CMP3/Computer Archeticture/Labs/Lab 4/M/registerBlock.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP3/Computer Archeticture/Labs/Lab 4/M/registerBlock.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DFFregister
+-- Compiling architecture registerFile of DFFregister
+-- Compiling entity registersBlock
+-- Compiling architecture registerFile of registersBlock
+
+} {} {}} {E:/CMP3/Computer Archeticture/Labs/Lab 4/M/counter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP3/Computer Archeticture/Labs/Lab 4/M/counter.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter
+-- Compiling architecture counter of counter
+
+} {} {}} {E:/CMP3/Computer Archeticture/Labs/Lab 4/M/registerFile.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP3/Computer Archeticture/Labs/Lab 4/M/registerFile.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity registerFileModule
+-- Compiling architecture registerFile of registerFileModule
+
+} {} {}}

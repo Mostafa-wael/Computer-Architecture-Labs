@@ -1,0 +1,283 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.0
+Ealu
+Z0 w1634706372
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dE:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa
+Z4 8E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/ALU.vhd
+Z5 FE:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/ALU.vhd
+l0
+L11
+VWJO1[@_Gh445Y5T0B<=o92
+!s100 hM30eenj41iln43771l7e2
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1634988838
+!i10b 1
+Z8 !s108 1634988838.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/ALU.vhd|
+Z10 !s107 E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/ALU.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aalsu
+R1
+R2
+DEx4 work 3 alu 0 22 WJO1[@_Gh445Y5T0B<=o92
+l63
+L23
+V:UnCD6M29dEb[ZlXZJIj?0
+!s100 KK>07@aM><X052ZPlQiG42
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Efulladder
+Z13 w1634985777
+R1
+R2
+R3
+Z14 8E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/NbitFullAdder.vhd
+Z15 FE:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/NbitFullAdder.vhd
+l0
+L6
+VNQ1;4;VQEMf7zZel_J^C<0
+!s100 dzM06?DA7FGVfnnYTb<[I0
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/NbitFullAdder.vhd|
+Z17 !s107 E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/NbitFullAdder.vhd|
+!i113 1
+R11
+R12
+Aalsu
+R1
+R2
+DEx4 work 9 fulladder 0 22 NQ1;4;VQEMf7zZel_J^C<0
+l16
+L15
+Vg5M3?HRlP=[4=l5gCHSag1
+!s100 Db:fWi1VZn;HEL:0Z9no@1
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Enfulladder
+R13
+R1
+R2
+R3
+R14
+R15
+l0
+L31
+V@cF`E?PVD;FFfL6Goezn=2
+!s100 b<RniYcL]o4l3D]]Cm[6D1
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Aalsu
+R1
+R2
+DEx4 work 10 nfulladder 0 22 @cF`E?PVD;FFfL6Goezn=2
+l52
+L41
+VhWlL^iUNc87884]QQ0D4g3
+!s100 1o_N^ooUlcCmNcJK^COK52
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Eparta
+Z18 w1634986746
+R1
+R2
+R3
+Z19 8E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partA.vhd
+Z20 FE:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partA.vhd
+l0
+L6
+V=JjGm=c<EgkH[l_ca_Gi:2
+!s100 ^802NCHfOgZ>m`K0Z1Zoh3
+R6
+32
+Z21 !s110 1634988839
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partA.vhd|
+Z23 !s107 E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partA.vhd|
+!i113 1
+R11
+R12
+Aalsu
+R1
+R2
+DEx4 work 5 parta 0 22 =JjGm=c<EgkH[l_ca_Gi:2
+l30
+L17
+Ve6PbIo_oa5dB]?=bm8FZi3
+!s100 6^H6g]D0`FNb76Q8f<g<N3
+R6
+32
+R21
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Epartb
+Z24 w1634681031
+R1
+R2
+R3
+Z25 8E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partB.vhd
+Z26 FE:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partB.vhd
+l0
+L7
+V1kmfU2BIc==BCHiodcnl[3
+!s100 2Lzz[Jidi7_?5a_^<B7Nb0
+R6
+32
+R21
+!i10b 1
+Z27 !s108 1634988839.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partB.vhd|
+Z29 !s107 E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partB.vhd|
+!i113 1
+R11
+R12
+Aalsu
+R1
+R2
+DEx4 work 5 partb 0 22 1kmfU2BIc==BCHiodcnl[3
+l18
+L17
+VcR=eKB?Y=QXc4N_lFd^`Y2
+!s100 dz15Bz7WBTg^KH0=nfkYl0
+R6
+32
+R21
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12
+Epartc
+Z30 w1634680743
+R1
+R2
+R3
+Z31 8E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partC.vhd
+Z32 FE:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partC.vhd
+l0
+L8
+Vi<On>FRR^;jfaBWRi<g3O3
+!s100 0Y:A:G_Zk<e?Kd2of_SQ03
+R6
+32
+R21
+!i10b 1
+R27
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partC.vhd|
+Z34 !s107 E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partC.vhd|
+!i113 1
+R11
+R12
+Aalsu
+R1
+R2
+DEx4 work 5 partc 0 22 i<On>FRR^;jfaBWRi<g3O3
+l21
+L20
+VjG?hQc<5F]YdCI31Z^C;T0
+!s100 DZK<4GYK5f3Nhh;DOzBRW1
+R6
+32
+R21
+!i10b 1
+R27
+R33
+R34
+!i113 1
+R11
+R12
+Epartd
+Z35 w1634680730
+R1
+R2
+R3
+Z36 8E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partD.vhd
+Z37 FE:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partD.vhd
+l0
+L9
+VHXZ3FMRe9_`MQQ0OTO]bW1
+!s100 UU]T<GV[RJ]S[:LOOz4[o3
+R6
+32
+R21
+!i10b 1
+R27
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partD.vhd|
+Z39 !s107 E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partD.vhd|
+!i113 1
+R11
+R12
+Aalsu
+R1
+R2
+Z40 DEx4 work 5 partd 0 22 HXZ3FMRe9_`MQQ0OTO]bW1
+l22
+L21
+Z41 V^4`;lJPYDQM`mQ:LT1JSB3
+Z42 !s100 EGZMBnBEDITJAKGOiNJ_O2
+R6
+32
+R21
+!i10b 1
+R27
+R38
+R39
+!i113 1
+R11
+R12

@@ -1,0 +1,62 @@
+# Run the file by typing "do testpartD" in the transcript
+
+# compileall projects
+project compileall
+
+#this command open the simulation for the entity named "partD"
+vsim -gui work.partD
+#add the signals you want to test in the wave
+add wave -position insertpoint  \
+sim:/partD/a \
+sim:/partD/b \
+sim:/partD/s \
+sim:/partD/cIn \
+sim:/partD/cOut \
+sim:/partD/f
+
+# set the radix to Hexadecimal
+radix signal sim:/partD/a Hexadecimal
+radix signal sim:/partD/b Hexadecimal
+radix signal sim:/partD/s Binary
+radix signal sim:/partD/cIn Hexadecimal
+radix signal sim:/partD/cOut Hexadecimal
+radix signal sim:/partD/f Hexadecimal
+
+
+#testCase1 -> E01E, 1
+force -freeze sim:/partD/a 16#F00F 0
+force -freeze sim:/partD/s 2#00 0
+#run simulation 
+run 
+
+#testCase2 -> E01F, 1
+force -freeze sim:/partD/a 16#F00F 0
+force -freeze sim:/partD/s 2#01 0
+#run simulation 
+run 
+
+#testCase3 -> E01E, 1
+force -freeze sim:/partD/a 16#F00F 0
+force -freeze sim:/partD/cIn 2#0 0
+force -freeze sim:/partD/s 2#10 0
+#run simulation 
+run 
+
+#testCase4 -> E01F, 1
+force -freeze sim:/partD/a 16#F00F 0
+force -freeze sim:/partD/cIn 2#1 0
+force -freeze sim:/partD/s 2#10 0
+#run simulation 
+run 
+
+#testCase5 -> 0000, 0
+force -freeze sim:/partD/a 16#F00F 0
+force -freeze sim:/partD/s 2#11 0
+#run simulation 
+run 
+
+
+
+
+
+

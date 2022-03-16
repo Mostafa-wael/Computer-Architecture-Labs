@@ -1,0 +1,351 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode
+Eaddressdecoder
+Z0 w1636729333
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dE:/CMP3/Computer Archeticture/Labs/Lab 4/M
+Z5 8E:/CMP3/Computer Archeticture/Labs/Lab 4/M/addressDecoder.vhd
+Z6 FE:/CMP3/Computer Archeticture/Labs/Lab 4/M/addressDecoder.vhd
+l0
+L11
+V`TAoAWL7zib6Y@iGmEQ@d3
+!s100 KlfjfB1]>;LnGmZSU2Qd>1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1636905790
+!i10b 1
+Z9 !s108 1636905790.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP3/Computer Archeticture/Labs/Lab 4/M/addressDecoder.vhd|
+Z11 !s107 E:/CMP3/Computer Archeticture/Labs/Lab 4/M/addressDecoder.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aregisterfile
+R1
+R2
+R3
+DEx4 work 14 addressdecoder 0 22 `TAoAWL7zib6Y@iGmEQ@d3
+l21
+L20
+ViA<dlGKe6MHmN9dLDCDUP2
+!s100 8i9;:@koM<7NoPjB1]Yj33
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecounter
+Z14 w1636905772
+R1
+R2
+R3
+R4
+Z15 8E:/CMP3/Computer Archeticture/Labs/Lab 4/M/counter.vhd
+Z16 FE:/CMP3/Computer Archeticture/Labs/Lab 4/M/counter.vhd
+l0
+L7
+VDg?AniEl9:TG<ezWAZL;b1
+!s100 ?9czb_k=9c`P_>TlLY3lc1
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP3/Computer Archeticture/Labs/Lab 4/M/counter.vhd|
+Z18 !s107 E:/CMP3/Computer Archeticture/Labs/Lab 4/M/counter.vhd|
+!i113 1
+R12
+R13
+Acounter
+R1
+R2
+R3
+DEx4 work 7 counter 0 22 Dg?AniEl9:TG<ezWAZL;b1
+l19
+L17
+VLT??Hg0C=oO=j[2c3XhkG2
+!s100 HWT>908_oBD57Q`<64JSN2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Abehv
+R1
+R2
+R3
+DEx4 work 7 counter 0 22 56e8nW09oSk?_FfgcK:7E2
+l20
+L18
+V81F]EkdajfS@KAmFm2X<L3
+!s100 Q8]E0il]ZnQVMmC_FW1JW2
+R7
+32
+!s110 1636568744
+!i10b 1
+!s108 1636568744.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP 3/Computer Archeticture/Labs/Lab 4/M/counter.vhd|
+!s107 E:/CMP 3/Computer Archeticture/Labs/Lab 4/M/counter.vhd|
+!i113 1
+R12
+R13
+w1636568695
+dE:/CMP 3/Computer Archeticture/Labs/Lab 4/M
+FE:/CMP 3/Computer Archeticture/Labs/Lab 4/M/counter.vhd
+8E:/CMP 3/Computer Archeticture/Labs/Lab 4/M/counter.vhd
+Edffregister
+Z19 w1636905470
+R2
+R3
+R4
+Z20 8E:/CMP3/Computer Archeticture/Labs/Lab 4/M/registerBlock.vhd
+Z21 FE:/CMP3/Computer Archeticture/Labs/Lab 4/M/registerBlock.vhd
+l0
+L7
+VBf_eOHQB@CXnX7BS[7@1@3
+!s100 zo:9eZK:eLRYWok5C1=Ff0
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP3/Computer Archeticture/Labs/Lab 4/M/registerBlock.vhd|
+Z23 !s107 E:/CMP3/Computer Archeticture/Labs/Lab 4/M/registerBlock.vhd|
+!i113 1
+R12
+R13
+Aregisterfile
+R2
+R3
+DEx4 work 11 dffregister 0 22 Bf_eOHQB@CXnX7BS[7@1@3
+l17
+L16
+Vd?UiCh3b1mQQaBm6caiPo0
+!s100 l>bIGciBBhahKazcob2WT2
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Ememandreg
+Z24 w1636726817
+R2
+R3
+R4
+Z25 8E:/CMP3/Computer Archeticture/Labs/Lab 4/M/memAndReg.vhd
+Z26 FE:/CMP3/Computer Archeticture/Labs/Lab 4/M/memAndReg.vhd
+l0
+L7
+VoMKma`c0U:n4=60dH9mWH2
+!s100 >UW`LmWT2FF4k8g;oH86N3
+R7
+32
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP3/Computer Archeticture/Labs/Lab 4/M/memAndReg.vhd|
+Z28 !s107 E:/CMP3/Computer Archeticture/Labs/Lab 4/M/memAndReg.vhd|
+!i113 1
+R12
+R13
+Amemandreg
+R2
+R3
+DEx4 work 9 memandreg 0 22 oMKma`c0U:n4=60dH9mWH2
+l48
+L21
+VCmII60zTfk19]`R5Wl1RF0
+!s100 @z`V=T:12o@`UiEVL[9@]1
+R7
+32
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Ememcount
+Z29 w1636622372
+R2
+R3
+R4
+Z30 8E:/CMP3/Computer Archeticture/Labs/Lab 4/M/memCount.vhd
+Z31 FE:/CMP3/Computer Archeticture/Labs/Lab 4/M/memCount.vhd
+l0
+L7
+VS>6f8n[3lHzDW=bQXa:172
+!s100 ofh`Xac_`RJbj`1]nooR_3
+R7
+32
+R8
+!i10b 1
+R9
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP3/Computer Archeticture/Labs/Lab 4/M/memCount.vhd|
+Z33 !s107 E:/CMP3/Computer Archeticture/Labs/Lab 4/M/memCount.vhd|
+!i113 1
+R12
+R13
+Amemcount
+R2
+R3
+DEx4 work 8 memcount 0 22 S>6f8n[3lHzDW=bQXa:172
+l38
+L18
+VQ43jVfK0`55hm1SRK[^h>1
+!s100 CoWR37i?`SgGNECC52j`]2
+R7
+32
+R8
+!i10b 1
+R9
+R32
+R33
+!i113 1
+R12
+R13
+Eram
+Z34 w1636632765
+R1
+R2
+R3
+R4
+Z35 8E:/CMP3/Computer Archeticture/Labs/Lab 4/M/Ram.vhd
+Z36 FE:/CMP3/Computer Archeticture/Labs/Lab 4/M/Ram.vhd
+l0
+L5
+VXai5AOWS<3;mZC8JoHC=K3
+!s100 [S5MobM]Yec;bF<RSP;5@0
+R7
+32
+R8
+!i10b 1
+R9
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP3/Computer Archeticture/Labs/Lab 4/M/Ram.vhd|
+Z38 !s107 E:/CMP3/Computer Archeticture/Labs/Lab 4/M/Ram.vhd|
+!i113 1
+R12
+R13
+Asyncrama
+R1
+R2
+R3
+DEx4 work 3 ram 0 22 Xai5AOWS<3;mZC8JoHC=K3
+l22
+L17
+V?7@BzSm;9>Rj[9j]`<bId0
+!s100 GPSgZT;3IPFAEaQhZN4d]0
+R7
+32
+R8
+!i10b 1
+R9
+R37
+R38
+!i113 1
+R12
+R13
+Eregisterfilemodule
+Z39 w1636729308
+R2
+R3
+R4
+Z40 8E:/CMP3/Computer Archeticture/Labs/Lab 4/M/registerFile.vhd
+Z41 FE:/CMP3/Computer Archeticture/Labs/Lab 4/M/registerFile.vhd
+l0
+L8
+Vi4Tg6ETeXz4C9e[]V:hBO0
+!s100 hhNa2d_WPX69i^bYS1zGD1
+R7
+32
+R8
+!i10b 1
+R9
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP3/Computer Archeticture/Labs/Lab 4/M/registerFile.vhd|
+Z43 !s107 E:/CMP3/Computer Archeticture/Labs/Lab 4/M/registerFile.vhd|
+!i113 1
+R12
+R13
+Aregisterfile
+R2
+R3
+Z44 DEx4 work 18 registerfilemodule 0 22 i4Tg6ETeXz4C9e[]V:hBO0
+l39
+L19
+Z45 VigCBJ3`i1KJG4;XB2Q5gY3
+Z46 !s100 BgImGSVX5goNoP862@a^c2
+R7
+32
+R8
+!i10b 1
+R9
+R42
+R43
+!i113 1
+R12
+R13
+Eregistersblock
+R19
+R2
+R3
+R4
+R20
+R21
+l0
+L36
+VQSi4EfZSNITb4jjg?Taal0
+!s100 HheXV<OFNN=bAE_4[k_nA2
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Aregisterfile
+R2
+R3
+DEx4 work 14 registersblock 0 22 QSi4EfZSNITb4jjg?Taal0
+l61
+L48
+Vg`jM?0DemzOn=e[:j6`2B1
+!s100 2RcMZGfnG^^ToTJh8YU273
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13

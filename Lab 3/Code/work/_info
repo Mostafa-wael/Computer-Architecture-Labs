@@ -1,0 +1,168 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa
+Eaddressdecoder
+Z0 w1636555088
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dE:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode
+Z5 8E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/addressDecoder.vhd
+Z6 FE:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/addressDecoder.vhd
+l0
+L11
+VhQ_Z8Z7iUekmWVd6GEhOI1
+!s100 In1BHPW0M_4RT^STdKoc30
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1636555124
+!i10b 1
+Z9 !s108 1636555124.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/addressDecoder.vhd|
+Z11 !s107 E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/addressDecoder.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aregisterfile
+R1
+R2
+R3
+DEx4 work 14 addressdecoder 0 22 hQ_Z8Z7iUekmWVd6GEhOI1
+l21
+L20
+Vh^L^;T[CRHUGZ@C3@Pa@^1
+!s100 h[9h8[6dKSXDz>4W]K^Tz1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Edffregister
+Z14 w1635432658
+R2
+R3
+R4
+Z15 8E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/registerBlock.vhd
+Z16 FE:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/registerBlock.vhd
+l0
+L7
+VBf_eOHQB@CXnX7BS[7@1@3
+!s100 zo:9eZK:eLRYWok5C1=Ff0
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/registerBlock.vhd|
+Z18 !s107 E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/registerBlock.vhd|
+!i113 1
+R12
+R13
+Aregisterfile
+R2
+R3
+DEx4 work 11 dffregister 0 22 Bf_eOHQB@CXnX7BS[7@1@3
+l17
+L16
+Vd?UiCh3b1mQQaBm6caiPo0
+!s100 l>bIGciBBhahKazcob2WT2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Eregisterfilemodule
+Z19 w1636555084
+R2
+R3
+R4
+Z20 8E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/registerFile.vhd
+Z21 FE:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/registerFile.vhd
+l0
+L8
+V6m@MPiN<=LeH8EI=30V0<3
+!s100 he?86^9i88FhBVV:QN0Fb3
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/registerFile.vhd|
+Z23 !s107 E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/registerFile.vhd|
+!i113 1
+R12
+R13
+Aregisterfile
+R2
+R3
+Z24 DEx4 work 18 registerfilemodule 0 22 6m@MPiN<=LeH8EI=30V0<3
+l39
+L19
+V5ib4]f2fbFYVckjG829^T1
+!s100 OIQ;z;Ji4giA5;Rb1ILEL3
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Eregistersblock
+R14
+R2
+R3
+R4
+R15
+R16
+l0
+L36
+VQSi4EfZSNITb4jjg?Taal0
+!s100 HheXV<OFNN=bAE_4[k_nA2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Aregisterfile
+R2
+R3
+DEx4 work 14 registersblock 0 22 QSi4EfZSNITb4jjg?Taal0
+l61
+L48
+VbMNRL5_61J_Efd[A`_0>51
+!s100 NeiMlcOE5z9[I>=5EoMQ50
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13

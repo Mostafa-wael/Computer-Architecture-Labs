@@ -1,0 +1,28 @@
+{E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/registerFile.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/registerFile.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity registerFileModule
+-- Compiling architecture registerFile of registerFileModule
+
+} {} {}} {E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/registerBlock.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/registerBlock.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DFFregister
+-- Compiling architecture registerFile of DFFregister
+-- Compiling entity registersBlock
+-- Compiling architecture registerFile of registersBlock
+
+} {} {}} {E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/addressDecoder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP 3/Computer Archeticture/Labs/Lab 3/Mostafa HardCode/addressDecoder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity addressDecoder
+-- Compiling architecture registerFile of addressDecoder
+
+} {} {}}

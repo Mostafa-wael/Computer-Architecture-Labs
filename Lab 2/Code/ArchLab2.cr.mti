@@ -1,0 +1,51 @@
+{E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partA.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partA.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity partA
+-- Compiling architecture ALSU of partA
+
+} {} {}} {E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/NbitFullAdder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/NbitFullAdder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fullAdder
+-- Compiling architecture ALSU of fullAdder
+-- Compiling entity nFullAdder
+-- Compiling architecture ALSU of nFullAdder
+
+} {} {}} {E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partB.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity partB
+-- Compiling architecture ALSU of partB
+
+} {} {}} {E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partC.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partC.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity partC
+-- Compiling architecture ALSU of partC
+
+} {} {}} {E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/ALU.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/ALU.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU
+-- Compiling architecture ALSU of ALU
+
+} {} {}} {E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partD.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/CMP 3/Computer Archeticture/Labs/Lab 2/Mostafa/partD.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity partD
+-- Compiling architecture ALSU of partD
+
+} {} {}}

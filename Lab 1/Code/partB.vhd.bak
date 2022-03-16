@@ -1,0 +1,36 @@
+Library ieee;
+use ieee.std_logic_1164.all;
+
+-- partB module --
+
+-- the interface of the module--
+entity partB is 
+port(
+    a:          in  std_logic_vector (15 downto 0);
+    b:          in  std_logic_vector (15 downto 0);
+    s:          in  std_logic_vector (1 downto 0);
+    f :         out std_logic_vector (15 downto 0));
+
+end entity;
+
+-- the implematation of the module--
+Architecture ALU16 of partB is
+begin
+    process(s)
+    begin
+   case s is 
+       --AND--
+       when "00"=>
+           f(15 downto 0) <=  a(15 downto 0) and b(15 downto 0);
+        --OR--
+       when "01"=>
+            f(15 downto 0) <=  a(15 downto 0) or b(15 downto 0);
+        --XOR--
+        when "10"=>
+            f(15 downto 0) <=  a(15 downto 0) xor b(15 downto 0);
+         --NOT--
+       when others=> --"11"--
+            f(15 downto 0) <=  not a(15 downto 0);
+    end case;
+    end process;
+end Architecture;
